@@ -1,0 +1,1 @@
+The „Web Applications with ASP.NET MVC” course objective is to introduce the students to the fundamentals of C#, .NET Framework, databases, HTML, CSS, JavaScript and Web application development with ASP.NET MVC.
